@@ -1,4 +1,5 @@
 # Amity-Social-Cloud-UIKit-iOS-Sample-SwiftPM
+A sample project migrating AmityUIKit and AmitySDK
 
 # Get started
 1. open project
