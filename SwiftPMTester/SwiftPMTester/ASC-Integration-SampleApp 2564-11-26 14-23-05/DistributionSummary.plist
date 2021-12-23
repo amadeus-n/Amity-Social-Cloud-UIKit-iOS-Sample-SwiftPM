@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ASC-Integration-SampleApp.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>785B577311A05EF28109CE1031A84CA586B8F156</string>
+				<key>dateExpires</key>
+				<string>10/3/2565 BE</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>785B577311A05EF28109CE1031A84CA586B8F156</string>
+						<key>dateExpires</key>
+						<string>10/3/2565 BE</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>AmitySDK.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>37Z583JR6K</string>
+						<key>name</key>
+						<string>Eko Corporation Company Limited</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>5.7.2</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>785B577311A05EF28109CE1031A84CA586B8F156</string>
+						<key>dateExpires</key>
+						<string>10/3/2565 BE</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>AmityUIKit.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>37Z583JR6K</string>
+						<key>name</key>
+						<string>Eko Corporation Company Limited</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>2.6.2</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>10.12.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>785B577311A05EF28109CE1031A84CA586B8F156</string>
+						<key>dateExpires</key>
+						<string>10/3/2565 BE</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Realm.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>37Z583JR6K</string>
+						<key>name</key>
+						<string>Eko Corporation Company Limited</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>10.12.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>37Z583JR6K.com.ekoapp.UpstraSampleiOS</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>37Z583JR6K</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>37Z583JR6K.com.ekoapp.UpstraSampleiOS</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>ASC-Integration-SampleApp.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>bcc88b75-1742-4705-9eeb-66fd29a0ce11</string>
+				<key>dateExpires</key>
+				<string>26/11/2565 BE</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: com.ekoapp.UpstraSampleiOS</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>37Z583JR6K</string>
+				<key>name</key>
+				<string>Eko Corporation Company Limited</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
